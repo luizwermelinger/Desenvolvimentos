@@ -1,1 +1,3 @@
 #Alguns desses projetos não fui eu quem desenvolveu outros melhorei e fiz funcionar!
+
+#Diáriamente crio projetos e posto aqui para servir de base para outros projetos...
